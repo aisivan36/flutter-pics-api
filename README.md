@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-This is just a doc
+This is just a documentation
 
 ## Getting Started
 
